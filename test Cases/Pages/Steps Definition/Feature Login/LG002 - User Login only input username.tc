@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>LG002 - User Login only input username</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9811b6f2-47df-4c71-a6cd-b219e8a425ad</testCaseGuid>
+</TestCaseEntity>
